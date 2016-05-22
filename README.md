@@ -2,4 +2,4 @@
 just for learning and coding javascript
 
 - [x]  js1
-- [] js2
+- [ ] js2
